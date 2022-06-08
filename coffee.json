@@ -1,0 +1,58 @@
+{
+  "coffee": [
+    {
+      "id": 1,
+      "name": "衣索比亞 耶加雪啡 阿達朵 水洗",
+      "origin": "衣索比亞 Ethiopia, Misty Valley, Yirgacheffe",
+      "roast": "淺",
+      "describe": "桃子,黃檸檬,茉莉花香,甜蜜蜜",
+      "image":"https://i.imgur.com/1FMCDP0.jpg",
+      "price": 550
+    },
+    {
+      "id": 2,
+      "name": "肯亞 米胡堤 AA TOP Kenya Mihuti AA TOP",
+      "origin": "肯亞 Kenya, 涅里Nyeri",
+      "roast": "深",
+      "describe": "甜柚,白桃,楓糖,梅子",
+      "image":"https://i.imgur.com/1FMCDP0.jpg",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "name": "宏都拉斯 奧斯卡莊園 伊卡圖 日曬",
+      "origin": "宏都拉斯 Honduras, 蒙德西猶斯 Montecillos",
+      "roast": "中淺",
+      "describe": "紅酒,熱帶水果茶,花香,蜂蜜",
+      "image":"https://i.imgur.com/1FMCDP0.jpg",
+      "price": 550
+    },
+    {
+      "id": 4,
+      "name": "巴拿馬 翡翠莊園 鑽石山 日曬",
+      "origin": "巴拿馬 Panama, 波魁特 Boquete、奇里基 Chiriqui",
+      "roast": "淺",
+      "describe": "紅李,牛奶巧克力,柳橙,紅櫻桃",
+      "image":"https://i.imgur.com/1FMCDP0.jpg",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "name": "巴拿馬 翡翠莊園特選 瑰夏（藝妓） 水洗",
+      "origin": "巴拿馬 Panama, 波魁特 Boquete",
+      "roast": "淺",
+      "describe": "花香,熱帶水果茶,焦糖風味,太妃糖,牛奶巧克力,杏桃,哈密瓜",
+      "image":"https://i.imgur.com/1FMCDP0.jpg",
+      "price": 4000
+    },
+    {
+      "id": 6,
+      "name": "臺灣阿里山 吾佳咖啡 水洗",
+      "origin": "臺灣 Taiwan,阿里山 Ali Mountain",
+      "roast": "中",
+      "describe": "臺灣烏龍茶香,龍眼乾甘甜",
+      "image":"https://i.imgur.com/1FMCDP0.jpg",
+      "price": 1100
+    }
+  ]
+}
